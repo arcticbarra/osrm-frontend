@@ -54,7 +54,7 @@ npm run compile
 npm run start-index
 ```
 
-## Changing Backends
+## Changing the backend
 
 In `src/leaflet_options.js` adjust:
 
