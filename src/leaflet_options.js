@@ -30,7 +30,7 @@ module.exports = {
   },
   services: [{
     label: 'Car (fastest)',
-    path: 'https://ec2-52-91-36-211.compute-1.amazonaws.com/route/v1'
+    path: 'http://ec2-52-91-36-211.compute-1.amazonaws.com/routing/route/v1'
   }],
   layer: [{
     'Mapbox Streets': streets,
